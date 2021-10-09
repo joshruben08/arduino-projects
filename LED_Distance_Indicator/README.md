@@ -1,6 +1,8 @@
-<\/> Led Distance Indicator <\/>
-  This project creates a Distance Indicator using an Ultra Sonic
+##Led Distance Indicator
+
+This project creates a Distance Indicator using an Ultra Sonic
 Indicator and LEDS. The closer your hand is to the Ultra Sonic Indicator, the more LEDS that will light up.
+
 Parts:
 Ultra Sonic Indicator : 1
 LEDs : 7
