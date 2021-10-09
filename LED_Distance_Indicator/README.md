@@ -5,9 +5,9 @@ Indicator and LEDS. The closer your hand is to the Ultra Sonic Indicator, the mo
 
 ## Parts:
 
-Ultra Sonic Indicator : 1
-LEDs : 7
-Jumper Wires : 12
-Arduino Uno : 1
-1k Ohm Resistors : 7
-Breadboard : 1
+- Ultra Sonic Indicator : 1
+- LEDs : 7
+- Jumper Wires : 12
+- Arduino Uno : 1
+- 1k Ohm Resistors : 7
+- Breadboard : 1
